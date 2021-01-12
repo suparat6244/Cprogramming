@@ -15,5 +15,6 @@ void main(){
     total= num1 + num2;
     printf("Total is : %d" ,total);
 
-    //--------สิ้นสุดโปรแกรมบวกเลข----------
+    printf("Suparat Poonsawat");
+    //--------สิ้นสุดโปรแกรมบวกเลข----------//
  }
